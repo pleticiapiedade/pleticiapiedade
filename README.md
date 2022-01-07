@@ -1,4 +1,4 @@
-### Olá!
+##
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/pleticiapiedade">
@@ -27,4 +27,8 @@
   <a href = "mailto:pleticiapiedade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiappiedade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/pleticiapiedade" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+</div>
+  
+<div>
+   
 </div>
